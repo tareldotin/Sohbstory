@@ -24,7 +24,7 @@ export const issues: Issue[] = [
     slug: "on-quiet-mornings",
     number: 24,
     title: "On Quiet Mornings",
-    date: "Mar 09, 2025",
+    date: "Nov 24, 2026",
     category: "Rituals",
     excerpt: "There is an hour — somewhere between the kettle and the first message — when the day has not yet decided what it will be.",
     readTime: "6 min",
