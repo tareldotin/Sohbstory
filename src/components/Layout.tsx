@@ -121,7 +121,7 @@ export default function Layout() {
 
           <div className="mt-12 pt-6 border-t border-ink/10 flex flex-col sm:flex-row justify-between gap-3">
             <p className="text-xs text-coco">© 2025 Sohbstory. All rights reserved.</p>
-            <p className="text-xs text-coco">Made slowly, with patience.</p>
+            <p className="text-xs text-coco">Designed by designorydotco</p>
           </div>
         </div>
       </footer>
