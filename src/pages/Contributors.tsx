@@ -5,28 +5,28 @@ import Reveal from "../components/Reveal";
 
 const team = [
   {
-    name: "Elena Marsh",
+    name: "Malu",
     role: "Editor in Chief",
     bio: "Writes the Sunday essays. Believes in slow mornings.",
     color: "bg-rose",
     initials: "EM",
   },
   {
-    name: "Jonas Reyer",
+    name: "Jaison",
     role: "Staff Writer",
     bio: "Finds the quiet places. Collects staircases.",
     color: "bg-sand",
     initials: "JR",
   },
   {
-    name: "Amara Okafor",
+    name: "Jibin",
     role: "Illustrator",
     bio: "Paints the covers. Owns forty-one pencils.",
     color: "bg-blush",
     initials: "AO",
   },
   {
-    name: "Theo Lindqvist",
+    name: "Anju Mohandas",
     role: "Producer",
     bio: "Sends the letters. Guards the 7 a.m. schedule.",
     color: "bg-beige",
