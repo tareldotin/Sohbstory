@@ -5,7 +5,7 @@ import Reveal from "../components/Reveal";
 
 const team = [
   {
-    name: "Malu",
+    name: "Malavika",
     role: "Editor in Chief",
     bio: "Writes the Sunday essays. Believes in slow mornings.",
     color: "bg-rose",
